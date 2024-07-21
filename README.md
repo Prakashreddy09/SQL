@@ -1,4 +1,6 @@
-# Data Analysis on a small Walmart Data (about 1000 rows) Using SQL
+# Project 1
+
+## Data Analysis on a small Walmart Data (about 1000 rows) Using SQL
 
 ## Business Questions To Solve
 
